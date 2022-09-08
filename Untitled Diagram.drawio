@@ -1,1 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T09:52:56.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.3.0" etag="jkYLRl_bTtVw2aXXDFbb" type="github"><diagram id="7MbRyavL8TEAg2Dl0coc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-08T10:18:00.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="cpIfzv-q8WUu2nZc7K88" version="20.3.0" type="github">
+  <diagram id="7MbRyavL8TEAg2Dl0coc" name="Page-1">
+    <mxGraphModel dx="1102" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l0abWKK74onHoSYQDrNH-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-2" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="92.14" width="49.2" height="87.86" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-5" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="49.2" height="87.86" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l0abWKK74onHoSYQDrNH-6" target="l0abWKK74onHoSYQDrNH-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-8" value="1. SFN will provide API client will integrate." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="295" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-9" value="PUSH server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="284" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-10" value="PIN change application server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="37.10000000000002" y="62.14" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-11" value="2. API call from client to push server to initiate transaction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l0abWKK74onHoSYQDrNH-1" target="l0abWKK74onHoSYQDrNH-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="250" as="sourcePoint" />
+            <mxPoint x="290" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-13" value="3. push server will push request to POS device to initiate transaction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-14" value="4. POS will receive and initiate transaction then send it to server for approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l0abWKK74onHoSYQDrNH-3" target="l0abWKK74onHoSYQDrNH-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="320" as="sourcePoint" />
+            <mxPoint x="220" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-16" value="&lt;b&gt;POS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-17" value="&lt;b&gt;Desktop&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="l0abWKK74onHoSYQDrNH-5" target="l0abWKK74onHoSYQDrNH-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="80" as="sourcePoint" />
+            <mxPoint x="280" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="70" />
+              <mxPoint x="280" y="30" />
+              <mxPoint x="420" y="60" />
+              <mxPoint x="490" y="120" />
+              <mxPoint x="520" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-19" value="Application server will send the confirmation to clinet server or service which they need to developed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="70" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="280" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0abWKK74onHoSYQDrNH-21" value="client server/Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="688" y="290" width="112" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
