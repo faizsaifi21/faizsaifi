@@ -13,7 +13,7 @@
         <mxCell id="Aq2Y9HHqMqmUCs6UcAfq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OEM generate a key pair OEM_ROOT_PRI and OEM_ROOT_PRI&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;PINE_CA_PUB is signed by&amp;nbsp;&lt;/span&gt;OEM_ROOT_PRI&lt;br&gt;&lt;/div&gt;&lt;div&gt;OEM send signed&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;PINE_CA_PUB to pine via mail&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="350" x="450" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="Aq2Y9HHqMqmUCs6UcAfq-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;one time process&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Aq2Y9HHqMqmUCs6UcAfq-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;One time process&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="330" x="247" y="20" as="geometry" />
         </mxCell>
         <mxCell id="Aq2Y9HHqMqmUCs6UcAfq-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OEM generates two key pair&amp;nbsp;" vertex="1">
