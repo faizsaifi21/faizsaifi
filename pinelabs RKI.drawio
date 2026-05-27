@@ -4,6 +4,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Aq2Y9HHqMqmUCs6UcAfq-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="330" x="50" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq2Y9HHqMqmUCs6UcAfq-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;Pine generates key pair PINE_CA_PUB and PINE_CA_PRI&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;public key is sent to OEM&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="320" x="50" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq2Y9HHqMqmUCs6UcAfq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OEM generate a key pair OEM_ROOT_PRI and OEM_ROOT_PRI&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;PINE_CA_PUB is signed by&amp;nbsp;&lt;/span&gt;OEM_ROOT_PRI&lt;br&gt;&lt;/div&gt;&lt;div&gt;OEM send signed&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;PINE_CA_PUB to pine via mail&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="350" x="450" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq2Y9HHqMqmUCs6UcAfq-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;one time process&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="330" x="247" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq2Y9HHqMqmUCs6UcAfq-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OEM generates two key pair&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="260" x="130" y="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
